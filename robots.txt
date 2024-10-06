@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bukitgadget.github.io/sitemap.xml
